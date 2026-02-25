@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>О проекте</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>О моем обучении</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="page2.html">О проекте</a></li>
+            <li><a href="page3.html">Контакты</a></li>
+        </ul>
+    </nav>
+    <main>
+        <p>На этой странице я проверяю, как работают свойства шрифтов и цвета фона, которые я задала в файле стилей.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 Вторая страница</p>
+    </footer>
+</body>
+
+</html>

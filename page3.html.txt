@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Контакты</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Свяжитесь со мной</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="page2.html">О проекте</a></li>
+            <li><a href="page3.html">Контакты</a></li>
+        </ul>
+    </nav>
+    <main>
+        <p>Это третья страница. Здесь мы видим, что заголовок h1 все так же стоит по центру, а текст в абзацах имеет
+            правильный межстрочный интервал.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 Третья страница</p>
+    </footer>
+</body>
+
+</html>
